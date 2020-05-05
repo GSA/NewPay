@@ -1,0 +1,14 @@
+{
+  "name": "NewPay",
+  "description": "The GSA NewPay team provides this repository to share content with the community.",
+  "license": null,
+  "openSourceProject": 1,
+  "governmentWideReuseProject": 1,
+  "tags": [
+    "HR",
+    "Pay"
+  ],
+  "contact": {
+    "email": "marcel.jemio@gsa.gov"
+  }
+}
